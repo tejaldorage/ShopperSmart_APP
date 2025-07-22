@@ -1,0 +1,41 @@
+customer_id,name,email,phone_number,location
+1,Alice Johnson,alice1@example.com,1234560001,New York
+2,Bob Smith,bob2@example.com,1234560002,Los Angeles
+3,Charlie Lee,charlie3@example.com,1234560003,Chicago
+4,Diana Prince,diana4@example.com,1234560004,Houston
+5,Evan Peters,evan5@example.com,1234560005,Phoenix
+6,Fiona Zhang,fiona6@example.com,1234560006,Seattle
+7,George Baker,george7@example.com,1234560007,Denver
+8,Hannah Moore,hannah8@example.com,1234560008,Boston
+9,Ian Wright,ian9@example.com,1234560009,San Diego
+10,Jane Kim,jane10@example.com,1234560010,San Francisco
+11,Kyle White,kyle11@example.com,1234560011,Atlanta
+12,Lisa Green,lisa12@example.com,1234560012,Miami
+13,Matt Brown,matt13@example.com,1234560013,Philadelphia
+14,Nina Hart,nina14@example.com,1234560014,Detroit
+15,Oscar Ford,oscar15@example.com,1234560015,Dallas
+16,Priya Sharma,priya16@example.com,1234560016,Austin
+17,Quincy Bell,quincy17@example.com,1234560017,Portland
+18,Rachel Park,rachel18@example.com,1234560018,Charlotte
+19,Sam Wilson,sam19@example.com,1234560019,Baltimore
+20,Tina Chen,tina20@example.com,1234560020,Las Vegas
+21,Umar Malik,umar21@example.com,1234560021,Orlando
+22,Vivian Cruz,vivian22@example.com,1234560022,Indianapolis
+23,Wesley King,wesley23@example.com,1234560023,Nashville
+24,Xena Ray,xena24@example.com,1234560024,Milwaukee
+25,Yusuf Ali,yusuf25@example.com,1234560025,Columbus
+26,Zara Wood,zara26@example.com,1234560026,El Paso
+27,Aaron Fox,aaron27@example.com,1234560027,Oklahoma City
+28,Bella Diaz,bella28@example.com,1234560028,Albuquerque
+29,Caleb Ross,caleb29@example.com,1234560029,Memphis
+30,Daisy Long,daisy30@example.com,1234560030,Washington
+31,Eli Nash,eli31@example.com,1234560031,San Jose
+32,Fatima Noor,fatima32@example.com,1234560032,Tucson
+33,Gavin Singh,gavin33@example.com,1234560033,Fresno
+34,Harper Lane,harper34@example.com,1234560034,Sacramento
+35,Imran Yusuf,imran35@example.com,1234560035,Long Beach
+36,Jenny Wu,jenny36@example.com,1234560036,Oakland
+37,Kevin Tran,kevin37@example.com,1234560037,Kansas City
+38,Leila Rahim,leila38@example.com,1234560038,Miami
+39,Mason Cruz,mason39@example.com,1234560039,Raleigh
+40,Nora Lee,nora40@example.com,1234560040,Omaha
